@@ -1,16 +1,89 @@
-# React + Vite
+# 💸 Smart Expense Splitter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive web application to manage and split group expenses among friends, roommates, or teams. This app automatically calculates balances and shows who owes whom in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://smart-expensesplitter.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 👥 Create groups and add members
+* 💸 Add shared expenses
+* ⚖️ Split expenses (Equal & Custom split)
+* 📊 Real-time balance calculation
+* 🔄 Smart settlement (who pays whom)
+* 📈 Spending analytics
+* 🤖 AI-powered expense categorization
+* 💾 Data stored using localStorage
+
+---
+
+## 🧠 How It Works
+
+* When an expense is added, the app calculates each member’s share
+* Tracks who paid and who owes
+* Automatically generates the minimum number of transactions required to settle debts
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: React.js
+* Build Tool: Vite
+* Styling: CSS
+* Deployment: Netlify
+
+---
+
+## 📂 Project Setup
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/Mano309/smart-expense-splitter.git
+cd smart-expense-splitter
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run Locally
+
+```bash
+npm run dev
+```
+
+### 4. Build Project
+
+```bash
+npm run build
+```
+
+---
+
+
+
+## 🎯 Objective
+
+To simplify expense management in group settings and eliminate confusion in tracking shared costs.
+
+---
+
+## 👨‍💻 Author
+
+**Manoj V**
+GitHub: https://github.com/Mano309
+
+---
+
+## 📌 Note
+
+This project was developed as part of an internship assignment and focuses on simplicity, usability, and accurate expense calculations.
