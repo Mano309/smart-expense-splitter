@@ -69,7 +69,10 @@ npm run build
 
 ---
 
+## 🎥 Demo Video
 
+👉 [Watch Demo](https://github.com/Mano309/smart-expense-splitter/blob/main/Demo/demo.mp4)
+ClicK view raw and it download
 
 ## 🎯 Objective
 
