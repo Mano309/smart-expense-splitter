@@ -71,7 +71,7 @@ npm run build
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo](https://github.com/Mano309/smart-expense-splitter/blob/main/Demo/demo.mp4)
+👉 [Watch Demo](https://github.com/Mano309/smart-expense-splitter/blob/main/Demo/smart-expense-splitter%20-%20Google%20Chrome%202026-04-22%2005-36-53.mp4)
 ClicK view raw and it download
 
 ## 🎯 Objective
